@@ -7410,17 +7410,17 @@
         },
         "type": "uint32"
       },
-      "_0____": {
+      "_U1R3_": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
       },
-      "_H____": {
+      "__1R3_": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
       },
-      "______": {
+      "_b1R3_": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
