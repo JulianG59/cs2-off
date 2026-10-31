@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-10-28 21:51:42.451278100 UTC
+// 2026-10-31 03:28:24.224110300 UTC
 
 #pragma once
 
@@ -183,7 +183,7 @@ namespace cs2_dumper {
             constexpr std::ptrdiff_t SoundOpSystem001 = 0x532B20;
             constexpr std::ptrdiff_t SoundOpSystemEdit001 = 0x532A30;
             constexpr std::ptrdiff_t SoundSystem001 = 0x532420;
-            constexpr std::ptrdiff_t VMixEditTool001 = 0x5941C0F;
+            constexpr std::ptrdiff_t VMixEditTool001 = 0x5941C1F;
         }
         // Module: steamaudio.dll
         namespace steamaudio_dll {
@@ -199,6 +199,10 @@ namespace cs2_dumper {
         // Module: v8system.dll
         namespace v8system_dll {
             constexpr std::ptrdiff_t Source2V8System001 = 0x34790;
+        }
+        // Module: vconcomm.dll
+        namespace vconcomm_dll {
+            constexpr std::ptrdiff_t VConComm001 = 0x3C750;
         }
         // Module: vphysics2.dll
         namespace vphysics2_dll {
