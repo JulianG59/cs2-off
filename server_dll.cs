@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-11-03 18:31:44.302694100 UTC
+// 2026-11-05 00:55:14.554488600 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: server.dll
@@ -7336,7 +7336,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_flActiveFollowStartTime = 0x32A4; // GameTime_t
             public const nint m_followMinuteTimer = 0x32A8; // CountdownTimer
             public const nint m_BlockDirectionTimer = 0x32C8; // CountdownTimer
-            public const nint m_bSpawnDyingParticles = 0x32E2; // bool
+            public const nint m_bSpawnDyingParticles = 0x32E3; // bool
         }
         // Parent: CPhysicsProp
         // Field count: 5
